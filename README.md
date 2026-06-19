@@ -1,15 +1,15 @@
-# 🌍 US Greenhouse Gas Emissions Analysis & Visual Analytics Dashboard
+# US Greenhouse Gas Emissions Analysis & Visual Analytics Dashboard
 
 An end-to-end data analytics project using **Databricks**, **SQL**, and **Delta Lake** to ingest, clean, and analyze over 3,000 counties of US environmental data. This project showcases advanced SQL logic (CTEs, Cross Joins, Data Type Casting) and transforms raw business insights into an interactive executive dashboard.
 
-## 📊 Live System Architecture & Dashboard
+## Live System Architecture & Dashboard
 The final interactive dashboard built natively inside Databricks showcases high-level spatial trends, localized pollution hotspots, and per-capita distribution dynamics.
 
-![US Carbon Emissions Dashboard](USCarbonEmissionsDashboard.jpg)
+![US Carbon Emissions Dashboard](project_files/dashboard_overview.png)
 
 ---
 
-## 💡 Key Business Questions & Core SQL Logic
+## Key Business Questions & Core SQL Logic
 
 This repository highlights four primary analytical deep dives designed to answer critical environmental and resource allocation questions:
 
