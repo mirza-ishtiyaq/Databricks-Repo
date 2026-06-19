@@ -5,7 +5,7 @@ An end-to-end data analytics project using **Databricks**, **SQL**, and **Delta 
 ## Live System Architecture & Dashboard
 The final interactive dashboard built natively inside Databricks showcases high-level spatial trends, localized pollution hotspots, and per-capita distribution dynamics.
 
-![Carbon Emissions Dashboard]([https://raw.githubusercontent.com/mirzaishtiyaqbaig/US-Carbon-Emissions-Analysis/main/Dashboard_Overview.png](https://github.com/mirza-ishtiyaq/Databricks-Repo/blob/main/US%20Emissions%20Dashboard.png))---
+![Carbon Emissions Dashboard](Dashboard_Overview.jpg)
 
 ## Key Business Questions & Core SQL Logic
 
