@@ -1,3 +1,3 @@
 # Databricks-Repo
 
-![Carbon Emissions Dashboard](Dashboard_Overview.jpg)
+![Carbon Emissions Dashboard](Dashboard_Overview.png)
